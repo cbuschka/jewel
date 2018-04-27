@@ -11,7 +11,7 @@
     "url": "git+https://github.com/cbuschka/juhl.git"
   },
   "author": "Cornelius Buschka <cbuschka@gmail.com>",
-  "license": "GPL-3",
+  "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/cbuschka/juhl/issues"
   },
