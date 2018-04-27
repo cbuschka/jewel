@@ -18,5 +18,8 @@
   "homepage": "https://github.com/cbuschka/juhl#readme",
   "devDependencies": {
     "yarn": "^1.6.0"
+  },
+  "dependencies": {
+    "electron": "^1.8.6"
   }
 }
