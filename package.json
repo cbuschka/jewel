@@ -1,0 +1,22 @@
+{
+  "name": "juhl",
+  "version": "1.0.0",
+  "description": "juhl - the jwt tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbuschka/juhl.git"
+  },
+  "author": "Cornelius Buschka <cbuschka@gmail.com>",
+  "license": "GPL-3",
+  "bugs": {
+    "url": "https://github.com/cbuschka/juhl/issues"
+  },
+  "homepage": "https://github.com/cbuschka/juhl#readme",
+  "devDependencies": {
+    "yarn": "^1.6.0"
+  }
+}
